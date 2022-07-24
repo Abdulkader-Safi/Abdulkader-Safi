@@ -12,13 +12,13 @@
 
 ## technology I use
 ### Frontend
-- HTML - CSS (Tailwind) - Javascript (ReactJS)
+- HTML - CSS(Tailwind) - Javascript(ReactJS)
 
 ### Mobile
 - Dart(Flutter)
 
 ### Backend
-- Javascript NodeJS(Express) - Javascript NodeJS(NestJS) - PHP(Laravel) - Python(Flask) no much experience
+- Javascript NodeJS(Express) - TypeScript NodeJS(NestJS) - PHP(Laravel) - Python(Flask) no much experience
 
 ### Database
 - MySQL - MS SQL Server - PostgreSQL - SQLite
