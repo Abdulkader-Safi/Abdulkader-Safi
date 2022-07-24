@@ -11,20 +11,20 @@
  </pre>
 
 ## technology I use
-Frontend
+### Frontend
 - HTML - CSS (Tailwind) - Javascript (ReactJS)
 
-Mobile
+### Mobile
 - Dart(Flutter)
 
-Backend
+### Backend
 - Javascript NodeJS(Express) - Javascript NodeJS(NestJS) - PHP(Laravel) - Python(Flask) no much experience
 
-Database
+### Database
 - MySQL - MS SQL Server - PostgreSQL - SQLite
 
-Editors
+### Editors
 - Visual Studio Code - Visual Studio - NeoVIM - PyCharm - IntelliJ IDEA
 
-Operating Systems
+### Operating Systems
 - Linux - Windows - MacOS
