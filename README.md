@@ -18,7 +18,7 @@
 - Dart(Flutter)
 
 ### Backend
-- Javascript NodeJS(Express) - TypeScript NodeJS(NestJS) - PHP(Laravel) - Python(Flask) no much experience
+- Javascript NodeJS(Express) - TypeScript NodeJS(NestJS) - PHP(Laravel)
 
 ### Database
 - MySQL - MS SQL Server - PostgreSQL - SQLite
