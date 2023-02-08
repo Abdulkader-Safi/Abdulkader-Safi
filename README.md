@@ -11,7 +11,8 @@
                   \$$   \$$\$$$$$$$  \$$$$$$$ \$$$$$$ \$$\$$   \$$\$$$$$$$ \$$$$$$$ \$$$$$$$\$$  
   </pre>
 </p>
-- [Visit my site](https://abdulkader-safi.netlify.app/).
+
+- [Visit my site](https://abdulkader-safi.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Abdulkader Safi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkader-safi&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkader-safi" /> </p>
