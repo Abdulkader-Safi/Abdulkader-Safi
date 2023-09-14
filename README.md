@@ -14,7 +14,6 @@
 
 <h2 align="center">Hi 👋, I'm Abdulkader Safi</h2>
 <h3 align="center">full stack software engineer</h3>
-<h3 align="center">CyberSecurity analyst to be</h3>
 
 ---
 
