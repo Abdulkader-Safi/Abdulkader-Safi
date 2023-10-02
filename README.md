@@ -64,6 +64,9 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="40" height="40"/> 
+  </a>
 
 ---
 
