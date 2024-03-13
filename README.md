@@ -14,9 +14,14 @@
 
 ## Hi 👋, I'm Abdulkader Safi
 
-### full stack software engineer
+#### full-stack software engineer
 
-<img src="https://komarev.com/ghpvc/?username=abdulkader-safi&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkader-safi" />
+    🔭   I’m currently working on a couple of not open-source business projects
+    🌱   I’m currently learning Design in Figma, Three.js, GoLang, and HTMX
+    💬   Ask me about React.js, NestJS, Typescript, React Native, NeoVim and Linux
+    📫   Reach me at safi.abdulkader@hotmail.com
+
+![](https://komarev.com/ghpvc/?username=Abdulkader-Safi&abbreviated=true)
 
 ### 😺 Github Status
 
@@ -24,6 +29,6 @@
 
 ![Abdulkader's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulkader-Safi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
-### 🏆 Github Profile Trophy
+### 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdulkader-Safi&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
