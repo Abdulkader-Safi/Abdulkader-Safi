@@ -19,7 +19,7 @@
     🔭   I’m currently working on a couple of not open-source business projects
     🌱   I’m currently learning Design in Figma, Three.js, GoLang, and HTMX
     💬   Ask me about React.js, NestJS, Typescript, React Native, NeoVim and Linux
-    📫   Reach me at safi.abdulkader@hotmail.com
+    📫   Reach me at safi.abdulkader@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Abdulkader-Safi&abbreviated=true)
 
