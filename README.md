@@ -21,6 +21,14 @@
     💬   Ask me about React.js, NestJS, Typescript, React Native, NeoVim and Linux
     📫   Reach me at safi.abdulkader@gmail.com
 
+---
+
+#### Open Source project working on right now
+
+1. [Easy Toast](https://github.com/Abdulkader-Safi/Abdulkader-Safi.git) - a easy to use toast system for web developers built to be used with Vanilla JS or HTMX just include the JS and css files and start showing toast to users
+
+---
+
 ![](https://komarev.com/ghpvc/?username=Abdulkader-Safi&abbreviated=true)
 
 ### 😺 Github Status
