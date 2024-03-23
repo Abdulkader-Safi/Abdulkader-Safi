@@ -50,6 +50,9 @@
   - an easy to use toast system for web developers
   - built to be used with Vanilla JS or HTMX
   - just include the JS and css files and start showing toast to users
+- [Safi-Lang](https://github.com/Abdulkader-Safi/Safi-Lang)
+  - This project perpose is to learn how programming languages work by creating new basic projramming language.
+
 
 ---
 
