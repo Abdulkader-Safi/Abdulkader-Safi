@@ -12,14 +12,35 @@
   </pre>
 </p>
 
-## Hi 👋, I'm Abdulkader Safi
+## Hi 👋, I'm
 
-#### full-stack software engineer
+```JSON
+{
+  "fullName": "Abdulkader Safi",
+  "jobTitle": "Full Stack Web and Mobile developer",
+  "email": "safi.abdulkader@gmail.com",
+  "password": "fhUxD75UUWkz/guJvlXrjtY13l8fWo4ffGAKuDA1wno=",
+  "age": 24,
+  "dob": "1999-10-15"
+}
+```
 
-    🔭   I’m currently working on a couple of not open-source business projects
-    🌱   I’m currently learning Design in Figma, Three.js, GoLang, and HTMX
-    💬   Ask me about React.js, NestJS, Typescript, React Native, NeoVim and Linux
-    📫   Reach me at safi.abdulkader@gmail.com
+### full-stack software engineer
+
+- 🔭 I’m currently working on a couple of open personal and not open source business projects
+- 🌱 I’m currently learning
+  - Design in [Figma](https://www.figma.com/)
+  - [Three.js](https://threejs.org/)
+  - [GoLang](https://go.dev/) with [Echo](https://echo.labstack.com/)
+  - [HTMX](https://htmx.org/)
+- 💬 Ask me about
+  - [ReactJS](https://react.dev/)
+  - [NestJS](https://nestjs.com/)
+  - [Typescript](https://www.typescriptlang.org/)
+  - [React Native](https://reactnative.dev/) with [Expo](https://expo.dev/)
+  - [NeoVim](https://neovim.io/)
+  - [GNU/Linux](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy)
+- 📫 Reach me at safi.abdulkader@gmail.com
 
 ---
 
