@@ -31,6 +31,12 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 ###
 
+<div align="center">
+  <img src="https://www.codewars.com/users/AbdulkaderSafi/badges/large" alt="stats graph"  />
+</div>
+
+###
+
 #### Tech I Work With
 
 <div align="left">
