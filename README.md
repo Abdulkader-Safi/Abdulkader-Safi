@@ -20,7 +20,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 ###
 
-<div align="center">
+<div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center;">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Abdulkader-Safi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulkader-Safi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkader-Safi&locale=en&&theme=dracula" height="150" alt="stats graph"  />
