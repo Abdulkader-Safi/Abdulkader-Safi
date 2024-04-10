@@ -34,27 +34,94 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkader-Safi&locale=en&&theme=dracula" height="150" alt="stats graph"  />
 </div>
 
-<!-- ###
-
-<div align="center">
-  <img src="https://www.codewars.com/users/AbdulkaderSafi/badges/large" alt="stats graph"  />
-</div> -->
-
 ###
 
-#### Tech I Work With
+<br clear="both">
 
-![My Skills](https://skillicons.dev/icons?i=bun,nodejs,html,css,js,ts,dart,bootstrap,tailwind,react,redux,next,nest,hono,express,lua,flutter,vim,neovim,vscode,git,github,docker,mongo,postgres,mysql,firebase,supabase,figma,arduino,androidstudio,electron,markdown,linux,ubuntu,windows,wordpress,aws,netlify,vercel,obsidian,postman,prisma,vite,)
+## Tech I Work With
 
-###
+<details>
+    <summary>Programing / Markup languages</b></summary><br/>
 
-#### Tech I a learning about
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,dart,lua,markdown)
+
+</details>
+
+<details>
+    <summary>runtime</b></summary><br/>
+
+![My Skills](https://skillicons.dev/icons?i=bun,nodejs)
+
+</details>
+
+<details>
+    <summary>Web Framework</b></summary><br/>
+
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,next,nest,express,hono)
+
+</details>
+
+<details>
+    <summary>Mobile Framework</b></summary><br/>
+
+![My Skills](https://skillicons.dev/icons?i=react,flutter)
+
+</details>
+
+<details>
+    <summary>Web Tools / CMS</b></summary><br/>
+
+![My Skills](https://skillicons.dev/icons?i=redux,prisma,vite,wordpress,strapi)
+
+</details>
+
+<details>
+    <summary>Host / Version Control</b></summary><br/>
+
+![My Skills](https://skillicons.dev/icons?i=git,github,aws,netlify,vercel)
+
+</details>
+
+<details>
+    <summary>Databases</b></summary><br/>
+
+![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,firebase,supabase)
+
+</details>
+
+<details>
+    <summary>IDE / Text Editors</b></summary><br/>
+
+![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,androidstudio)
+
+</details>
+
+<details>
+    <summary>Operating Systems</b></summary><br/>
+
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,windows,apple)
+
+</details>
+
+<details>
+    <summary>Extra Tools</b></summary><br/>
+
+![My Skills](https://skillicons.dev/icons?i=docker,figma,arduino,electron,obsidian,postman)
+
+</details>
+
+<details>
+    <summary>Tech I a learning about</b></summary><br/>
 
 ![My Skills](https://skillicons.dev/icons?i=go,rust,tauri,spring,vue,graphql,jest,threejs)
 
+</details>
+
 ###
 
-#### Contact Me
+<br clear="both">
+
+## Contact Me
 
 <div align="left">
   <a href="safi.abdulkader@gmai.com" target="_blank">
@@ -66,3 +133,5 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 </div>
 
 ###
+
+<br clear="both">
