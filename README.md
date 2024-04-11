@@ -40,82 +40,53 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 ## Tech I Work With
 
-<details>
-    <summary>Programing / Markup languages</b></summary><br/>
+#### Programing / Markup languages
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,dart,lua,markdown)
 
-</details>
-
-<details>
-    <summary>runtime</b></summary><br/>
+#### runtime
 
 ![My Skills](https://skillicons.dev/icons?i=bun,nodejs)
 
-</details>
-
-<details>
-    <summary>Web Framework</b></summary><br/>
+#### Web Framework
 
 ![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,next,nest,express,hono)
 
-</details>
+#### Desktop Framework
 
-<details>
-    <summary>Mobile Framework</b></summary><br/>
+![My Skills](https://skillicons.dev/icons?i=electron)
+
+#### Mobile Framework
 
 ![My Skills](https://skillicons.dev/icons?i=react,flutter)
 
-</details>
-
-<details>
-    <summary>Web Tools / CMS</b></summary><br/>
+#### Web Tools / CMS
 
 ![My Skills](https://skillicons.dev/icons?i=redux,prisma,vite,wordpress,strapi)
 
-</details>
-
-<details>
-    <summary>Host / Version Control</b></summary><br/>
+#### Host / Version Control
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,aws,netlify,vercel)
 
-</details>
-
-<details>
-    <summary>Databases</b></summary><br/>
+#### Databases
 
 ![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,firebase,supabase)
 
-</details>
-
-<details>
-    <summary>IDE / Text Editors</b></summary><br/>
+#### IDE / Text Editors
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,androidstudio)
 
-</details>
-
-<details>
-    <summary>Operating Systems</b></summary><br/>
+#### Operating Systems
 
 ![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,windows,apple)
 
-</details>
+#### Extra Tools
 
-<details>
-    <summary>Extra Tools</b></summary><br/>
+![My Skills](https://skillicons.dev/icons?i=docker,figma,arduino,obsidian,postman)
 
-![My Skills](https://skillicons.dev/icons?i=docker,figma,arduino,electron,obsidian,postman)
-
-</details>
-
-<details>
-    <summary>Tech I a learning about</b></summary><br/>
+#### Tech I a learning about
 
 ![My Skills](https://skillicons.dev/icons?i=go,rust,tauri,spring,vue,graphql,jest,threejs)
-
-</details>
 
 ###
 
