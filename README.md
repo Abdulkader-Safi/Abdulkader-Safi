@@ -4,13 +4,6 @@
 
 <p align="center">
   <pre>
- <!-- .d888888  dP             dP          dP dP                      dP                   
-d8'    88  88             88          88 88                      88                   
-88aaaaa88a 88d888b. .d888b88 dP    dP 88 88  .dP  .d8888b. .d888b88 .d8888b. 88d888b. 
-88     88  88'  `88 88'  `88 88    88 88 88888"   88'  `88 88'  `88 88ooood8 88'  `88 
-88     88  88.  .88 88.  .88 88.  .88 88 88  `8b. 88.  .88 88.  .88 88.  ... 88       
-88     88  88Y8888' `88888P8 `88888P' dP dP   `YP `88888P8 `88888P8 `88888P' dP       
-oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
      _    _         _       _ _             _             ____         __ _ 
     / \  | |__   __| |_   _| | | ____ _  __| | ___ _ __  / ___|  __ _ / _(_)
    / _ \ | '_ \ / _` | | | | | |/ / _` |/ _` |/ _ \ '__| \___ \ / _` | |_| |
@@ -95,7 +88,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 ## Contact Me
 
 <div align="left">
-  <a href="safi.abdulkader@gmai.com" target="_blank">
+  <a href="mailto:safi.abdulkader@gmai.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/abdulkader-safi" target="_blank">
@@ -104,7 +97,10 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   <a href="https://twitter.com/AbdulkaderSafi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X/TWITTER&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  </div>
+  <a href="https://wa.me/0096176499386" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
