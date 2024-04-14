@@ -79,7 +79,7 @@
 
 #### Tech I a learning about
 
-![My Skills](https://skillicons.dev/icons?i=go,rust,tauri,spring,vue,graphql,jest,threejs)
+![My Skills](https://skillicons.dev/icons?i=go,rust,tauri,spring,vue,graphql,jest,threejs,odoo)
 
 ###
 
