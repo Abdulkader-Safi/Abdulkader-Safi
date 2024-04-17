@@ -93,7 +93,7 @@
   <a href="https://twitter.com/AbdulkaderSafi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X/TWITTER&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://wa.me/0096176499386" target="_blank">
+  <a href="https://wa.me/96560787763" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.youtube.com/@abdulkadersafi" target="_blank">
