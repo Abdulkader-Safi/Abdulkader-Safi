@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center;">
+<div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulkader-Safi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkader-Safi&locale=en&&theme=dracula" height="150" alt="stats graph"  />
 </div>
@@ -91,10 +91,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/AbdulkaderSafi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X/TWITTER&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=X/TWITTER&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://wa.me/0096176499386" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.youtube.com/@abdulkadersafi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0001&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
 
