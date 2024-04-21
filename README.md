@@ -26,8 +26,9 @@
 ###
 
 <div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
-  <a href="https://gitroll.io/profile/uVPDQgIiHu7bQQhYjjI85s7yFuy52" style="display: flex; flex-direction: column;" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uVPDQgIiHu7bQQhYjjI85s7yFuy52" alt="GitRoll Profile Badge" height="250" />
-  this will give you status of my public repo only
+  <a href="https://gitroll.io/profile/uVPDQgIiHu7bQQhYjjI85s7yFuy52" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uVPDQgIiHu7bQQhYjjI85s7yFuy52" alt="GitRoll Profile Badge" height="250" />
+  <p> this will give you status of my public repo only</p>
   </a>
 </div>
 
