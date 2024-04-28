@@ -1,6 +1,6 @@
 <div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
   <a href="https://techforpalestine.org/learn-more" target="_blank">
-    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" height="250" />
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" height="150" />
   </a>
 </div>
 
