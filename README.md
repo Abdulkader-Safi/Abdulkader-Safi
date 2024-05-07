@@ -81,7 +81,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=docker,figma,arduino,obsidian,postman)
 
-#### Tech I a learning about
+#### Tech I am learning about
 
 ![My Skills](https://skillicons.dev/icons?i=go,rust,htmx,graphql,jest)
 
