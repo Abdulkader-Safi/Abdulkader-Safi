@@ -6,13 +6,13 @@
 
 ###
 
-<h3 align="left">Hi 👋! My name is Abdulkader Safi and I'm a Full Stack developer, from Lebanon</h3>
+### Hi 👋! My name is Abdulkader Safi and I'm a Full Stack developer, from Lebanon
 
 ###
 
 <p align="center">
   <pre>
-     _    _         _       _ _             _             ____         __ _ 
+     _    _         _       _ _             _             ____         __ _
     / \  | |__   __| |_   _| | | ____ _  __| | ___ _ __  / ___|  __ _ / _(_)
    / _ \ | '_ \ / _` | | | | | |/ / _` |/ _` |/ _ \ '__| \___ \ / _` | |_| |
   / ___ \| |_) | (_| | |_| | |   < (_| | (_| |  __/ |     ___) | (_| |  _| |
@@ -34,6 +34,8 @@
 ###
 
 <br clear="both">
+
+###
 
 ## Tech I Work With
 
@@ -81,13 +83,21 @@
 
 ![My Skills](https://skillicons.dev/icons?i=docker,figma,arduino,obsidian,postman)
 
-#### Tech I am learning about
+###
+
+<br clear="both">
+
+###
+
+## Tech I am learning about
 
 ![My Skills](https://skillicons.dev/icons?i=go,rust,htmx,solidjs,graphql,jest)
 
 ###
 
 <br clear="both">
+
+###
 
 ## Contact Me
 
