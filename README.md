@@ -41,7 +41,7 @@
 
 #### Programing / Markup languages
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,dart,lua,markdown)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,go,dart,lua,markdown)
 
 #### runtime / Package Manager
 
@@ -91,7 +91,7 @@
 
 ## Tech I am learning about
 
-![My Skills](https://skillicons.dev/icons?i=go,rust,htmx,solidjs,graphql,jest)
+![My Skills](https://skillicons.dev/icons?i=rust,htmx,solidjs,graphql,jest)
 
 ###
 
