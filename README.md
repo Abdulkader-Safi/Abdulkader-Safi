@@ -41,9 +41,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,dart,lua,markdown)
 
-#### runtime
+#### runtime / Package Manager
 
-![My Skills](https://skillicons.dev/icons?i=bun,nodejs)
+![My Skills](https://skillicons.dev/icons?i=bun,nodejs,npm,yarn,pnpm)
 
 #### Web Framework
 
@@ -67,7 +67,7 @@
 
 #### Databases
 
-![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,firebase,supabase)
+![My Skills](https://skillicons.dev/icons?i=mongo,sqlite,postgres,mysql,firebase,supabase)
 
 #### IDE / Text Editors
 
@@ -75,7 +75,7 @@
 
 #### Operating Systems
 
-![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,windows,apple)
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,mint,windows,apple)
 
 #### Extra Tools
 
@@ -83,7 +83,7 @@
 
 #### Tech I am learning about
 
-![My Skills](https://skillicons.dev/icons?i=go,rust,htmx,graphql,jest)
+![My Skills](https://skillicons.dev/icons?i=go,rust,htmx,solidjs,graphql,jest)
 
 ###
 
