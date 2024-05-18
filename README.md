@@ -26,9 +26,14 @@
 
 ###
 
-<div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkader-Safi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkader-Safi&locale=en&&theme=dracula" height="150" alt="stats graph"  />
+<div align="center" style="width: 100% ;display: flex; flex-direction: column; justify-content: center; align-item: center; gap: 20px;">
+    <div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Abdulkader-Safi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkader-Safi&locale=en&theme=dracula" height="150" alt="stats graph"  />
+    </div>
+    <div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulkader-Safi&show_icons=true&locale=en&layout=compact&theme=dracula" height="150" alt="stats graph"  />
+    </div>
 </div>
 
 ###
