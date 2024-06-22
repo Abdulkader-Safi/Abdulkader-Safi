@@ -46,7 +46,7 @@
 
 #### Programing / Markup languages
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,go,dart,lua,markdown)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,go,lua,markdown)
 
 #### runtime / Package Manager
 
@@ -54,11 +54,11 @@
 
 #### Web Framework
 
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,next,nest,express,hono)
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,htmx,nest,express)
 
-#### Desktop Framework
-
-![My Skills](https://skillicons.dev/icons?i=electron)
+<!-- #### Desktop Framework -->
+<!---->
+<!-- ![My Skills](https://skillicons.dev/icons?i=electron) -->
 
 #### Mobile Framework
 
@@ -66,9 +66,9 @@
 
 #### Web Tools / CMS
 
-![My Skills](https://skillicons.dev/icons?i=redux,prisma,vite,wordpress,strapi)
+![My Skills](https://skillicons.dev/icons?i=graphql,redux,prisma,vite,wordpress,strapi)
 
-#### Host / Version Control
+#### Version Control / Host
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,aws,netlify,vercel)
 
@@ -78,7 +78,7 @@
 
 #### IDE / Text Editors
 
-![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=neovim,vscode)
 
 #### Operating Systems
 
@@ -96,7 +96,7 @@
 
 ## Tech I am learning about
 
-![My Skills](https://skillicons.dev/icons?i=rust,htmx,solidjs,graphql,jest)
+![My Skills](https://skillicons.dev/icons?i=rust,solidjs,jest)
 
 ###
 
