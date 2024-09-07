@@ -122,12 +122,12 @@
 
 <br clear="both">
 
-###
-
-<a href="https://data.typeracer.com/pit/profile?user=abdulkader_safi&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=abdulkader_safi" border="0" alt="TypeRacer.com scorecard for user abdulkader_safi"/></a>
-
-###
-
-<br clear="both">
-
-###
+<!-- ### -->
+<!---->
+<!-- <a href="https://data.typeracer.com/pit/profile?user=abdulkader_safi&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=abdulkader_safi" border="0" alt="TypeRacer.com scorecard for user abdulkader_safi"/></a> -->
+<!---->
+<!-- ### -->
+<!---->
+<!-- <br clear="both"> -->
+<!---->
+<!-- ### -->
