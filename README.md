@@ -46,15 +46,15 @@
 
 #### Programing / Markup languages
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,go,lua,markdown)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,lua,php,markdown)
 
 #### runtime / Package Manager
 
-![My Skills](https://skillicons.dev/icons?i=bun,nodejs,npm,yarn,pnpm)
+![My Skills](https://skillicons.dev/icons?i=nodejs,npm,yarn,bun)
 
 #### Web Framework
 
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,htmx,nest,express)
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,htmx,nest,express,laravel)
 
 <!-- #### Desktop Framework -->
 <!---->
@@ -62,7 +62,7 @@
 
 #### Mobile Framework
 
-![My Skills](https://skillicons.dev/icons?i=react,flutter)
+![My Skills](https://skillicons.dev/icons?i=react)
 
 #### Web Tools / CMS
 
@@ -87,10 +87,6 @@
 #### Extra Tools
 
 ![My Skills](https://skillicons.dev/icons?i=docker,figma,arduino,obsidian,postman)
-
-#### Tech I am learning about
-
-![My Skills](https://skillicons.dev/icons?i=rust,solidjs,jest)
 
 ###
 
