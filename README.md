@@ -46,45 +46,29 @@
 
 #### Programing / Markup languages
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,lua,php,markdown)
-
-#### runtime / Package Manager
-
-![My Skills](https://skillicons.dev/icons?i=nodejs,npm,yarn,bun)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,php,markdown)
 
 #### Web Framework
 
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,htmx,nest,express,laravel)
-
-<!-- #### Desktop Framework -->
-<!---->
-<!-- ![My Skills](https://skillicons.dev/icons?i=electron) -->
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,express,laravel)
 
 #### Mobile Framework
 
 ![My Skills](https://skillicons.dev/icons?i=react)
 
-#### Web Tools / CMS
+#### Extra Tools
 
-![My Skills](https://skillicons.dev/icons?i=graphql,redux,prisma,vite,wordpress,strapi)
+![My Skills](https://skillicons.dev/icons?i=nodejs,npm,yarn,bun)
 
-#### Version Control / Host
+![My Skills](https://skillicons.dev/icons?i=graphql,redux,prisma,vite,wordpress)
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,aws,netlify,vercel)
 
-#### Databases
-
 ![My Skills](https://skillicons.dev/icons?i=mongo,sqlite,postgres,mysql,firebase,supabase)
-
-#### IDE / Text Editors
 
 ![My Skills](https://skillicons.dev/icons?i=neovim,vscode)
 
-#### Operating Systems
-
 ![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,mint,windows,apple)
-
-#### Extra Tools
 
 ![My Skills](https://skillicons.dev/icons?i=docker,figma,arduino,obsidian,postman)
 
@@ -109,21 +93,11 @@
   <a href="https://wa.me/96560787763" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.youtube.com/@abdulkadersafi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0001&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://wa.me/96176499386" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp2&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
 
 <br clear="both">
-
-<!-- ### -->
-<!---->
-<!-- <a href="https://data.typeracer.com/pit/profile?user=abdulkader_safi&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=abdulkader_safi" border="0" alt="TypeRacer.com scorecard for user abdulkader_safi"/></a> -->
-<!---->
-<!-- ### -->
-<!---->
-<!-- <br clear="both"> -->
-<!---->
-<!-- ### -->
