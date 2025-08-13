@@ -85,9 +85,6 @@
   <a href="https://wa.me/96560787763" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://wa.me/96176499386" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp2&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
 </div>
 
 ###
