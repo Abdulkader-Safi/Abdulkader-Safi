@@ -1,12 +1,4 @@
-<div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
-  <a href="https://techforpalestine.org/learn-more" target="_blank">
-    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" height="150" />
-  </a>
-</div>
-
-###
-
-### Hi 👋! My name is Abdulkader Safi and I'm a Full Stack developer, from Lebanon
+# Hi 👋! My name is Abdulkader Safi and I'm a Full Stack developer, from Lebanon
 
 ###
 
@@ -20,11 +12,7 @@
   </pre>
 </p>
 
-###
-
 <br clear="both">
-
-###
 
 <div align="center" style="width: 100% ;display: flex; flex-direction: column; justify-content: center; align-item: center; gap: 20px;">
     <div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
@@ -36,27 +24,23 @@
     </div>
 </div>
 
-###
-
 <br clear="both">
-
-###
 
 ## Tech I Work With
 
-#### Programing / Markup languages
+### Programing / Markup languages
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,php,markdown)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,php,markdown)
 
-#### Web Framework
+### Web Framework
 
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,express,laravel)
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,dotnet,laravel)
 
-#### Mobile Framework
+### Mobile Framework
 
-![My Skills](https://skillicons.dev/icons?i=react)
+![My Skills](https://skillicons.dev/icons?i=react,next)
 
-#### Extra Tools
+### Extra Tools
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,npm,yarn,bun)
 
@@ -71,32 +55,6 @@
 ![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,mint,windows,apple)
 
 ![My Skills](https://skillicons.dev/icons?i=docker,figma,arduino,obsidian,postman)
-
-###
-
-<br clear="both">
-
-###
-
-## Contact Me
-
-<div align="left">
-  <a href="mailto:safi.abdulkader@gmai.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/abdulkader-safi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/AbdulkaderSafi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X/TWITTER&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/96560787763" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://wa.me/96176499386" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp2&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
 
 ###
 
