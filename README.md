@@ -34,7 +34,7 @@
 
 ### Web Framework
 
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,react,next,dotnet,laravel)
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,next,dotnet,laravel)
 
 ### Mobile Framework
 
