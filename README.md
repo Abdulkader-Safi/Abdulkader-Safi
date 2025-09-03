@@ -34,11 +34,11 @@
 
 ### Web Framework
 
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,dotnet,laravel)
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,react,next,dotnet,laravel)
 
 ### Mobile Framework
 
-![My Skills](https://skillicons.dev/icons?i=react,next)
+![My Skills](https://skillicons.dev/icons?i=react)
 
 ### Extra Tools
 
