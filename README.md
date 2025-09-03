@@ -28,7 +28,7 @@
 
 ## Tech I Work With
 
-### Programing / Markup languages
+### Programming / Markup languages
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,php,markdown)
 
