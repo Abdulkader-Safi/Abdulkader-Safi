@@ -30,28 +30,28 @@
 
 ### Programming / Markup languages
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,php,markdown)
+![My Skills](https://skills.syvixor.com/api/icons?i=html,css,js,ts,csharp,php,markdown)
 
 ### Web Framework
 
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,next,dotnet,laravel)
+![My Skills](https://skills.syvixor.com/api/icons?i=react,bootstrap,tailwind,next,dotnet,laravel)
 
 ### Mobile Framework
 
-![My Skills](https://skillicons.dev/icons?i=react)
+![My Skills](https://skills.syvixor.com/api/icons?i=react,pwa)
 
 ### Extra Tools
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,npm,yarn,bun)
+![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,npm,yarn,bun)
 
-![My Skills](https://skillicons.dev/icons?i=graphql,redux,prisma,vite,wordpress)
+![My Skills](https://skills.syvixor.com/api/icons?i=graphql,redux,zustand,vite,wordpress,shopify)
 
-![My Skills](https://skillicons.dev/icons?i=git,github,aws,netlify,vercel)
+![My Skills](https://skills.syvixor.com/api/icons?i=git,github,aws,netlify,vercel)
 
-![My Skills](https://skillicons.dev/icons?i=mongo,sqlite,postgres,mysql,firebase,supabase)
+![My Skills](https://skills.syvixor.com/api/icons?i=mongo,sqlite,postgres,mysql,firebase,supabase)
 
-![My Skills](https://skillicons.dev/icons?i=neovim,vscode)
+![My Skills](https://skills.syvixor.com/api/icons?i=neovim,vscode,rider)
 
-![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,mint,windows,apple)
+![My Skills](https://skills.syvixor.com/api/icons?i=apple,linux,windows)
 
-![My Skills](https://skillicons.dev/icons?i=docker,figma,arduino,obsidian,postman)
+![My Skills](https://skills.syvixor.com/api/icons?i=docker,figma,arduino,obsidian,postman)
