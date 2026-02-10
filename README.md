@@ -56,7 +56,7 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 
 **Databases**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=postgres,mysql,mongo,sqlite,firebase,supabase&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=postgresql,mysql,mongo,sqlite,firebase,supabase&perline=4)
 
 </td>
 <td valign="top" width="33%">
@@ -106,12 +106,17 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkader-Safi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkader-Safi&locale=en&theme=github-dark-blue&hide_border=true" height="160" alt="Streak Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulkader-safi&theme=github_dark" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulkader-Safi&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulkader-safi&theme=github_dark" height="160" alt="Top Languages by Repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulkader-safi&theme=github_dark" height="160" alt="Top Languages by Commit" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulkader-safi&theme=github_dark" height="160" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulkader-safi&theme=github_dark&utcOffset=8" height="160" alt="Productive Time" />
 </div>
 
 ---
