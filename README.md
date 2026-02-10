@@ -4,7 +4,7 @@
 
 **Full Stack Developer** &mdash; Lebanon
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Abdulkader-Safi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulkadersafi.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkader-safi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulkader-Safi)
 
@@ -20,7 +20,8 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 
 ### Tech Stack
 
-<table>
+<div align="center">
+<table width="100%">
 <tr>
 <td valign="top" width="33%">
 
@@ -100,23 +101,24 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulkader-safi&theme=github_dark" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulkader-safi&theme=github_dark" width="100%" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulkader-safi&theme=github_dark" height="160" alt="Top Languages by Repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulkader-safi&theme=github_dark" height="160" alt="Top Languages by Commit" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulkader-safi&theme=github_dark" width="49%" alt="Top Languages by Repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulkader-safi&theme=github_dark" width="49%" alt="Top Languages by Commit" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulkader-safi&theme=github_dark" height="160" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulkader-safi&theme=github_dark&utcOffset=8" height="160" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulkader-safi&theme=github_dark" width="49%" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulkader-safi&theme=github_dark&utcOffset=8" width="49%" alt="Productive Time" />
 </div>
 
 ---
@@ -124,3 +126,5 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdulkader-Safi&style=flat-square&color=6e7681" alt="Profile Views" />
 </div>
+
+<img src="https://u.abdulkadersafi.com/p/AavJNRfNz" alt="" referrerpolicy="no-referrer-when-downgrade" width="1" height="1" />
