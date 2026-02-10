@@ -1,57 +1,121 @@
-# Hi 👋! My name is Abdulkader Safi and I'm a Full Stack developer, from Lebanon
+<div align="center">
 
-###
+# Abdulkader Safi
 
-<p align="center">
-  <pre>
-     _    _         _       _ _             _             ____         __ _
-    / \  | |__   __| |_   _| | | ____ _  __| | ___ _ __  / ___|  __ _ / _(_)
-   / _ \ | '_ \ / _` | | | | | |/ / _` |/ _` |/ _ \ '__| \___ \ / _` | |_| |
-  / ___ \| |_) | (_| | |_| | |   < (_| | (_| |  __/ |     ___) | (_| |  _| |
- /_/   \_\_.__/ \__,_|\__,_|_|_|\_\__,_|\__,_|\___|_|    |____/ \__,_|_| |_|
-  </pre>
-</p>
+**Full Stack Developer** &mdash; Lebanon
 
-<br clear="both">
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Abdulkader-Safi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkader-safi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulkader-Safi)
 
-<div align="center" style="width: 100% ;display: flex; flex-direction: column; justify-content: center; align-item: center; gap: 20px;">
-    <div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Abdulkader-Safi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkader-Safi&locale=en&theme=dracula" height="150" alt="stats graph"  />
-    </div>
-    <div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulkader-Safi&show_icons=true&locale=en&layout=compact&theme=dracula" height="150" alt="stats graph"  />
-    </div>
 </div>
 
-<br clear="both">
+---
 
-## Tech I Work With
+### About Me
 
-### Programming / Markup languages
+I'm a Full Stack Developer with a passion for building performant, scalable web and mobile applications. I work across the entire stack — from crafting pixel-perfect frontends to designing robust backend architectures and APIs.
 
-![My Skills](https://skills.syvixor.com/api/icons?i=html,css,js,ts,csharp,php,markdown)
+---
 
-### Web Framework
+### Tech Stack
 
-![My Skills](https://skills.syvixor.com/api/icons?i=react,bootstrap,tailwind,next,dotnet,laravel)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Mobile Framework
+**Languages**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=react,pwa)
+![My Skills](https://skills.syvixor.com/api/icons?i=html,css,js,ts,csharp,php,markdown&perline=4)
 
-### Extra Tools
+</td>
+<td valign="top" width="33%">
 
-![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,npm,yarn,bun)
+**Frontend**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=graphql,redux,zustand,vite,wordpress,shopify)
+![My Skills](https://skills.syvixor.com/api/icons?i=react,next,tailwind,bootstrap,redux,zustand,vite&perline=4)
 
-![My Skills](https://skills.syvixor.com/api/icons?i=git,github,aws,netlify,vercel)
+</td>
+<td valign="top" width="33%">
 
-![My Skills](https://skills.syvixor.com/api/icons?i=mongo,sqlite,postgres,mysql,firebase,supabase)
+**Backend**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=neovim,vscode,rider)
+![My Skills](https://skills.syvixor.com/api/icons?i=dotnet,laravel,nodejs,graphql,wordpress,shopify&perline=4)
 
-![My Skills](https://skills.syvixor.com/api/icons?i=apple,linux,windows)
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-![My Skills](https://skills.syvixor.com/api/icons?i=docker,figma,arduino,obsidian,postman)
+**Mobile**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=react,pwa&perline=4)
+
+</td>
+<td valign="top" width="33%">
+
+**Databases**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=postgres,mysql,mongo,sqlite,firebase,supabase&perline=4)
+
+</td>
+<td valign="top" width="33%">
+
+**DevOps & Cloud**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=docker,aws,vercel,netlify,git,github&perline=4)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**Package Managers**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=npm,yarn,bun&perline=4)
+
+</td>
+<td valign="top" width="33%">
+
+**Editors & IDEs**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=neovim,vscode,rider&perline=4)
+
+</td>
+<td valign="top" width="33%">
+
+**Tools & Platforms**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=figma,postman,obsidian,arduino&perline=4)
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+**Operating Systems**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=apple,linux,windows&perline=4)
+
+</td>
+</tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkader-Safi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkader-Safi&locale=en&theme=github-dark-blue&hide_border=true" height="160" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulkader-Safi&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdulkader-Safi&style=flat-square&color=6e7681" alt="Profile Views" />
+</div>
