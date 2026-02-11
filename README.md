@@ -127,4 +127,3 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
   <img src="https://komarev.com/ghpvc/?username=Abdulkader-Safi&style=flat-square&color=6e7681" alt="Profile Views" />
 </div>
 
-<img src="https://u.abdulkadersafi.com/p/AavJNRfNz" alt="" referrerpolicy="no-referrer-when-downgrade" width="1" height="1" />
