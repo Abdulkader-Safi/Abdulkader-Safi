@@ -113,6 +113,7 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 | **Project Pulse** | Health monitoring for VS Code projects | [GitHub](https://github.com/Abdulkader-Safi/vscode-extensions-project-pulse) · [Details](https://abdulkadersafi.com/projects/project-pulse-health-monitoring-for-vs-code) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=AbdulkaderSafi.project-pulse) |
 | **File Explorer** | A better file explorer for VS Code | [GitHub](https://github.com/Abdulkader-Safi/vscode-file-explorer) · [Details](https://abdulkadersafi.com/projects/i-built-a-better-file-explorer-for-vscode-because-macos-finder-is-painful) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=AbdulkaderSafi.file-explorer) |
 | **ClarifAI** | Free AI-powered code analysis for VS Code | [GitHub](https://github.com/Abdulkader-Safi/clarifai) · [Details](https://abdulkadersafi.com/projects/clarifai-free-ai-powered-code-analysis-for-visual-studio-code) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=AbdulkaderSafi.clarif-ai) |
+| **ImageMagick** | Free VS Code extension for optimizing images  | [GitHub](https://github.com/Abdulkader-Safi/vscode-extensions-ImageMagick) · [Details](https://abdulkadersafi.com/projects/imagemagick-for-vs-code-native-image-editing-inside-the-editor) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=AbdulkaderSafi.imagemagick) |
 
 ---
 
@@ -137,4 +138,3 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdulkader-Safi&style=flat-square&color=6e7681" alt="Profile Views" />
 </div>
-
