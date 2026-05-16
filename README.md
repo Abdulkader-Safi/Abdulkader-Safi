@@ -138,7 +138,7 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulkader-safi&theme=github_dark" width="49%" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulkader-safi&theme=github_dark&utcOffset=8" width="49%" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulkader-safi&theme=github_dark&utcOffset=3" width="49%" alt="Productive Time" />
 </div>
 
 ---
