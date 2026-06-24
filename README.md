@@ -80,7 +80,7 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 
 **Editors & IDEs**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=neovim,vscode,rider&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=neovim,zed,vscode,rider&perline=4)
 
 </td>
 <td valign="top" width="33%">
