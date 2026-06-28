@@ -118,11 +118,12 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 
 ---
 
-### Obsidian Plugins
+### Obsidian Plugins & Themes
 
-| Extension     | Description                                                                                                                                                                            | Links                                                                                                                                                                                           |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Vault CRM** | A lightweight CRM that lives inside Obsidian. Track clients, deals, and projects, log every interaction, and keep your to-dos, without leaving your vault and without a cloud account. | [GitHub](https://github.com/Abdulkader-Safi/obsidian-crm-plugins) · [Details](https://community.obsidian.md/plugins/vault-crm) · [Marketplace](https://community.obsidian.md/plugins/vault-crm) |
+| Extension      | Description                                                                                                                                                                            | Links                                                                                                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vault CRM**  | A lightweight CRM that lives inside Obsidian. Track clients, deals, and projects, log every interaction, and keep your to-dos, without leaving your vault and without a cloud account. | [GitHub](https://github.com/Abdulkader-Safi/obsidian-crm-plugins) · [Details](https://community.obsidian.md/plugins/vault-crm) · [Marketplace](https://community.obsidian.md/plugins/vault-crm) |
+| **Safi Theme** | AWarm editorial Obsidian theme with dark and light modes, Space Grotesk headings, and one clay accent. Built from my brand at [abdulkadersafi.com](https://abdulkadersafi.com).        | [GitHub](https://github.com/Abdulkader-Safi/obsidian-safi-theme) · [Details](https://community.obsidian.md/themes/safi) · [Marketplace](https://community.obsidian.md/themes/safi)              |
 
 ---
 
