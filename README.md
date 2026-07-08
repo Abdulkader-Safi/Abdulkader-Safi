@@ -130,9 +130,10 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 
 ### NPM & Composer Packages
 
-| Extension      | Description                                                    | Links                                                                                                                                                                                                                                            |
-| -------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **LaralCN-UI** | A shadcn-style copy-and-own Blade component system for Laravel | [GitHub](https://github.com/Abdulkader-Safi/LaralCN-UI) · [Details](https://abdulkadersafi.com/projects/laralcn-ui-a-shadcn-style-copy-and-own-blade-component-system-for-laravel) · [Packagist](https://packagist.org/packages/safi/laralcn-ui) |
+| Extension               | Package Manager  | Description                                                    | Links                                                                                                                                                                                                                                            |
+| ----------------------- | ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **LaralCN-UI**          | Composer Package | A shadcn-style copy-and-own Blade component system for Laravel | [GitHub](https://github.com/Abdulkader-Safi/LaralCN-UI) · [Details](https://abdulkadersafi.com/projects/laralcn-ui-a-shadcn-style-copy-and-own-blade-component-system-for-laravel) · [Packagist](https://packagist.org/packages/safi/laralcn-ui) |
+| **Safi Studio Scanner** | NPM Package      | A shadcn-style copy-and-own Blade component system for Laravel | [GitHub](https://github.com/Abdulkader-Safi/Safi-Studio-Scanner) · [Details](https://abdulkadersafi.com/projects/safi-studio-scanner) · [NPM](https://www.npmjs.com/package/safi-studio-scanner?activeTab=readme)                                |
 
 ---
 
