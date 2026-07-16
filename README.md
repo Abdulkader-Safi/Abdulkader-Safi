@@ -130,9 +130,9 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 
 ### Figma Plugins
 
-| Plugin             | Description                                                    | Links                                                                                                                                                                                                                          |
-| ------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Design to Html** | A shadcn-style copy-and-own Blade component system for Laravel | [GitHub](https://github.com/Abdulkader-Safi/figma-design-to-code-plugins) · [Details](https://abdulkadersafi.com/projects/design-to-html) · [Figma **Still under review**](https://abdulkadersafi.com/projects/design-to-html) |
+| Plugin             | Description                                                    | Links                                                                                                                                                                                                                  |
+| ------------------ | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Design to Html** | A shadcn-style copy-and-own Blade component system for Laravel | [GitHub](https://github.com/Abdulkader-Safi/figma-design-to-code-plugins) · [Details](https://design-to-html.abdulkadersafi.com/) · [Figma **Still under review**](https://abdulkadersafi.com/projects/design-to-html) |
 
 ---
 
