@@ -110,6 +110,7 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 | Extension   | Description                                                                                                                                                          | Links                                                                                                            |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **WP2Code** | Claude Code plugin that ports a WordPress site to Laravel, Next.js, Astro or plain HTML by measuring the original and diffing rendered geometry, section by section. | [GitHub](https://github.com/Abdulkader-Safi/wp-to-code) · [Details](https://abdulkadersafi.com/projects/wp2code) |
+| **ai-writing-rules** | Claude Code plugin that stops Claude writing like an AI. 29 researched patterns, loaded every session and checked on every file write. | [GitHub](https://github.com/Abdulkader-Safi/AI-Writing-Rules) · [Details](https://abdulkadersafi.com/projects/ai-writing-rules) |
 
 ### VS Code Extensions
 
