@@ -187,6 +187,15 @@ PRDs and technical specs, Agile / Scrum, ClickUp, JIRA, Figma hand-off, code rev
 
 ---
 
+### Chrome Extensions
+
+| Extension      | Description                                                                                                                       | Links                                                                                                                                                                                                                                                     |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Share This** | Share the current page to social media, or copy it as a blog-ready Markdown snippet.                                             | [GitHub](https://github.com/Abdulkader-Safi/Share-This-Browser-Extension) · [Details](https://abdulkadersafi.com/work/share-this) · [Chrome Web Store](https://chromewebstore.google.com/detail/share-this/dkbcnkblhpndoimoomjgppelchgbjbob)                |
+| **Rummage**    | A replacement for Chrome's bookmark manager, built for people with thousands of bookmarks. Search saved page text, catch dead links and duplicates. Works on Chrome's own bookmarks, so there's nothing to import and no account. | [GitHub](https://github.com/Abdulkader-Safi/Rummage-Bookmark-Manager-Browser-Extension) · [Details](https://github.com/Abdulkader-Safi/Rummage-Bookmark-Manager-Browser-Extension) · [Chrome Web Store](https://chromewebstore.google.com/detail/rummage/mnecbdfdiedljiedphppgeojdpjphhmm) |
+
+---
+
 ### Figma Plugins
 
 | Plugin             | Description                                                    | Links                                                                                                                                                                                                                  |
