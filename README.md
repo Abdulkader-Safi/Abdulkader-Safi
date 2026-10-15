@@ -29,44 +29,52 @@ Day to day I work in .NET, Laravel and Next.js, deploy with Docker behind Caddy 
 
 **Languages**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=html,css,js,ts,csharp,php,markdown&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=html,css,js,ts,csharp,php,python,sql,bash,markdown&perline=4)
 
 </td>
 <td valign="top" width="33%">
 
 **Frontend**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=react,next,tailwind,bootstrap,redux,zustand,vite&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=react,next,tailwind,bootstrap,redux,zustand,vite,svelte,vue,astro,alpinejs,shadcnui,gsap&perline=4)
+
+Also SvelteKit, Blade and Arabic RTL layouts.
 
 </td>
 <td valign="top" width="33%">
 
 **Backend**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=dotnet,laravel,nodejs,graphql,wordpress,shopify&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=dotnet,laravel,nodejs,graphql,wordpress,shopify,nestjs,express,fastapi,livewire,inertiajs,mcp&perline=4)
+
+Also ASP.NET Core Web APIs, Filament, KeystoneJS and REST.
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="33%">
 
-**Mobile**
+**Mobile & Desktop**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=react,pwa&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=react,pwa,reactnative,expo,electron,vscode,obsidian,chrome&perline=4)
+
+VS Code extensions, Obsidian plugins and Chrome extensions.
 
 </td>
 <td valign="top" width="33%">
 
 **Databases**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=postgresql,mysql,mongo,sqlite,firebase,supabase&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=postgresql,mysql,mongo,sqlite,firebase,supabase,sqlserver,prisma,appwrite,payload&perline=4)
 
 </td>
 <td valign="top" width="33%">
 
 **DevOps & Cloud**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=docker,aws,vercel,netlify,git,github&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=docker,aws,vercel,netlify,git,github,githubactions,caddy,nginx,cloudflare,cpanel,ubuntu&perline=4)
+
+Also Docker Compose, PHP-FPM, PM2 and zero-downtime Laravel and Node deploys.
 
 </td>
 </tr>
@@ -89,16 +97,52 @@ Day to day I work in .NET, Laravel and Next.js, deploy with Docker behind Caddy 
 
 **Tools & Platforms**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=figma,postman,obsidian,arduino&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=figma,postman,obsidian,arduino,jira,clickup&perline=4)
 
 </td>
 </tr>
 <tr>
-<td colspan="3" valign="top">
+<td valign="top" width="33%">
+
+**Integrations**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=meta,whatsapp,stripe,shopify&perline=4)
+
+Meta WhatsApp Cloud API, Meta and Google Ads APIs, PayPal, Zoho Inventory, Google Search Console and PageSpeed Insights.
+
+</td>
+<td valign="top" width="33%">
+
+**AI and tooling**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=claudeai,claudecode,ollama,mcp,playwright,puppeteer&perline=4)
+
+Local models with Ollama, Claude Code plugins and skills, headless Chrome.
+
+</td>
+<td valign="top" width="33%">
+
+**Server and security**
+
+![My Skills](https://skills.syvixor.com/api/icons?i=ubuntu,linux,nginx,caddy&perline=4)
+
+Ubuntu VPS setup and hardening, SSH key-only access, UFW, fail2ban, unattended upgrades, SafeLine WAF, EDR, TLS, DNS, SPF / DKIM / DMARC / PTR, self-hosted mail and backend services, incident response.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 **Operating Systems**
 
 ![My Skills](https://skills.syvixor.com/api/icons?i=apple,linux,windows&perline=4)
+
+</td>
+<td colspan="2" valign="top">
+
+**Ways of working**
+
+PRDs and technical specs, Agile / Scrum, ClickUp, JIRA, Figma hand-off, code review, technical SEO and Core Web Vitals.
 
 </td>
 </tr>
