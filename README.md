@@ -14,7 +14,9 @@
 
 ### About Me
 
-I'm a Full Stack Developer with a passion for building performant, scalable web and mobile applications. I work across the entire stack, from crafting pixel-perfect frontends to designing robust backend architectures and APIs.
+Software engineer with 6 years of experience building and running web, mobile and internal business systems, the last 2 as Lead Software Engineer at dsrpt, an Australian digital agency with offices in Kuwait and Adelaide. I lead a team of 5 engineers and own delivery from requirements and architecture through to deployment, server management and the maintenance that follows launch.
+
+Day to day I work in .NET, Laravel and Next.js, deploy with Docker behind Caddy on Linux servers I set up and secure myself, and build for clients in Kuwait, the wider GCC and Australia, most of them bilingual Arabic and English. Outside work I publish open-source tools: an Obsidian plugin in the community marketplace, two npm packages, a Claude Code plugin and a set of VS Code extensions.
 
 ---
 
