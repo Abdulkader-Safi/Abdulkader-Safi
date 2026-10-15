@@ -137,6 +137,7 @@ I'm a Full Stack Developer with a passion for building performant, scalable web 
 | **S-Color-Inline** | Show color swatches next to CSS color values in inline code. | [GitHub](https://github.com/Abdulkader-Safi/s-color-inline) · [Details](https://community.obsidian.md/plugins/s-color-inline) · [Marketplace](https://community.obsidian.md/plugins/s-color-inline) |
 | **Safi Site Audit** | Run website audits (SEO, content, links, images, security, crawlability and more) and save each one as a Markdown note. Built on Safi Studio Scanner. | [GitHub](https://github.com/Abdulkader-Safi/obsidian-safi-site-audit-plugins) · [Details](https://community.obsidian.md/plugins/safi-site-audit) · [Marketplace](https://community.obsidian.md/plugins/safi-site-audit) |
 | **Safi Theme**  | Warm editorial Obsidian theme with dark and light modes, Space Grotesk headings, and one clay accent. Built from my brand at [abdulkadersafi.com](https://abdulkadersafi.com).        | [GitHub](https://github.com/Abdulkader-Safi/obsidian-safi-theme) · [Details](https://community.obsidian.md/themes/safi) · [Marketplace](https://community.obsidian.md/themes/safi)                             |
+| **Safi V2 Theme** | Rounded, clean Obsidian theme: white cards on soft paper, green brand, lime for the active item. Light and dark modes. | [GitHub](https://github.com/Abdulkader-Safi/obsidian-safi-theme-v2) · [Details](https://community.obsidian.md/themes/safi-v2) · [Marketplace](https://community.obsidian.md/themes/safi-v2) |
 
 ---
 
