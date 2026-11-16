@@ -29,7 +29,7 @@ Day to day I work in .NET, Laravel and Next.js, deploy with Docker behind Caddy 
 
 **Languages**
 
-![My Skills](https://skills.syvixor.com/api/icons?i=html,css,js,ts,csharp,php,python,sql,bash,markdown&perline=4)
+![My Skills](https://skills.syvixor.com/api/icons?i=html,css,js,ts,csharp,php,python,rust,sql,bash,markdown&perline=4)
 
 </td>
 <td valign="top" width="33%">
